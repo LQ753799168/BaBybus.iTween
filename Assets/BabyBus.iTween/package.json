@@ -1,0 +1,14 @@
+{
+  "name": "com.unity.babybus.itween",
+  "displayName": "BabyBus iTween",
+  "description": "LQ小猩猩的iTween测试",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "示例中包含了iTween的基础用法",
+      "path": "Samples~"
+    }
+  ]
+}
